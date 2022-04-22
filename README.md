@@ -15,11 +15,11 @@
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="4">
-        <a href="#">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">PORTFOLIO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">BLOG</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#">CONTACT</a>
+        <a href="#" color="#000">HOME</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" color="#000" color="#000" color="#000" VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" color="#000" color="#000" PORTFOLIO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" color="#000" BLOG</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#000" CONTACT</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
@@ -29,7 +29,7 @@
       </font>
     </h1>
     <h3 align="center">
-      <font face="Lato" color="#000" size="7">
+      <font face="Lato" color="#000">size="7">
         USING HTML ONLY (NO CSS USED)
       </font>
     </h3>
