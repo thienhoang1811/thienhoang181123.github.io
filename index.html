@@ -7,7 +7,7 @@
     Trịnh Mãi Đỉnh
   </title>
   </head>
-  <body background="1.jpg">
+  <body background="2.jpg">
     <br />
     <h3 align="center">
       <font face="lato"size="6">LOGO</font>
