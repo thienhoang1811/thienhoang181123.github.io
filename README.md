@@ -7,19 +7,18 @@
     Trịnh Mãi Đỉnh
   </title>
   </head>
-  <body background="567.jpg">
+  <body background="12.jpg">
     <br />
     <h3 align="center">
       <font face="lato"size="6">LOGO</font>
       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
        &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
       <font face="cinzel" size="4">
-        <a href="#" color="#000">Trang Chủ</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" color="#000" color="#000" color="#000" VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" color="#000" color="#000" Like</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" color="#000" Subscribe</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-        <a href="#"color="#000" Content</a>
+        <a href="#"color="#FE2E64">Trang Chủ</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#FE2E64">VIDEO</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#FE2E64">Like</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#FE2E64">color="#000" Subscribe</a>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+        <a href="#"color="#FE2E64">Content</a>
       </font>
     </h3>
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
