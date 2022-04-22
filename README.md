@@ -25,12 +25,12 @@
     <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     <h1 align="center">
       <font face="Lato" color="#017bf5" size="7">
-          BEAUTIFUL AND SIMPLE WEB PAGE
+          TRINH ĐẸP TRAI, CUTE, DỄ THƯƠNG, ĐÁNG YÊU
       </font>
     </h1>
     <h3 align="center">
       <font face="Lato" color="#000">size="7">
-        USING HTML ONLY (NO CSS USED)
+        MÃI YÊU
       </font>
     </h3>
     </br>
