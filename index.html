@@ -35,18 +35,6 @@
         <button type="submit"><i class="fa fa-search"></i></button>
     </form>
     </section>  
-    </h3>
-    <br /><br /><br /><br />
-    <h1 align="center">
-      <font face="Lato" color="#017bf5" size="7">
-          Trường CĐKTCN Nha Trang
-      </font>
-    </h1>
-    <h3 align="center">
-      <font face="Lato" color="#FE2E64"><size="7">
-        CNTT15A
-      </font>
-    </h3>
     </br>
   <h3 align="center">
     <a hred="#">GET STARTED</a>
