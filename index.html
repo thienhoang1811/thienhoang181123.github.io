@@ -47,8 +47,14 @@ form.example::after {
   display: table;
  </style>
   </head>
-  <body background="t.jpg">
-      <style>
+       <style>
+body {
+  background-image:"t.jpg";
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+</style>}
     <img src="OIP.jpg" alt="text" width="10%">
     <br />
     <h3 align="center">
@@ -65,7 +71,7 @@ form.example::after {
       <section>
     <h1 style="font-size: 50px;color: white;margin-bottom: 30px;margin-top: 80px;">Learn to Code</h1>
     <h3 style="margin-bottom: 30px;">Tìm kiếm.</h3>
-    <form class="example" action="" style="margin:auto;max-width:900px;">
+    <form class="example" action="" style="margin:auto;max-width:300px;">
         <input type="text" placeholder="Search.." name="search">
         <button type="submit"><i class="fa fa-search"></i></button>
     </form>
