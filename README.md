@@ -6,58 +6,10 @@
   <title>
     Nguyễn Thanh Trịnh
   </title>
-    <body background ="t.jpg";>
-  <style>
-     img {
- position: absolute;
- top: 10px;
- left: 200px; 
-   }
-    * {
-  box-sizing: border-box;
-}
+ 
 
-form.example input[type=text] {
-  padding: 10px;
-  font-size: 17px;
-  border: 1px solid grey;
-  float: left;
-  width: 80%;
-  background: #f1f1f1;
-}
-
-form.example button {
-  float: left;
-  width: 20%;
-  padding: 10px;
-  background: #2196F3;
-  color: white;
-  font-size: 17px;
-  border: 1px solid grey;
-  border-left: none;
-  cursor: pointer;
-}
-
-form.example button:hover {
-  background: #0b7dda;
-}
-
-form.example::after {
-  content: "";
-  clear: both;
-  display: table;
-    }
-    body {
-  background-image:url't.jpg';
-  background-repeat: no-repeat;
-  background-attachment: fixed;
-  background-size: 100% 100%;
-    }
- </style>
-  </head>
-       
-
-
+        </head>
+   <body background="t.jpg">
     <img src="OIP.jpg" alt="text" width="10%">
     <br />
     <h3 align="center">
