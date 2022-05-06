@@ -6,6 +6,7 @@
   <title>
     Nguyễn Thanh Trịnh
   </title>
+    <body background ="t.jpg";>
   <style>
      img {
  position: absolute;
@@ -45,16 +46,18 @@ form.example::after {
   content: "";
   clear: both;
   display: table;
- </style>
-  </head>
-       <style>
-body {
-  background-image:"t.jpg";
+    }
+    body {
+  background-image:url't.jpg';
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
-}
-</style>}
+    }
+ </style>
+  </head>
+       
+
+
     <img src="OIP.jpg" alt="text" width="10%">
     <br />
     <h3 align="center">
