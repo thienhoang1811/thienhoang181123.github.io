@@ -6,7 +6,35 @@
   <title>
     Nguyễn Thanh Trịnh
   </title>
- 
+ <style>
+    header {
+        background-color: hsl(225, 57%, 23%);
+        height: 20vh;
+    }
+    section {
+        text-align: center;
+        background-color: hsl(200, 57%, 23%);
+        height: 70vh;
+    }
+    footer {
+        background-color: hsl(175, 57%, 23%);
+        height: 20vh;
+    }
+    flex-box {
+        display: flex;
+        flex-direction: column;
+    }
+    mag {
+        margin-top: 50px;
+        margin-left: 100px;
+    }
+   img {                                
+  position: absolute;
+	top: 97px;
+	left: 120px;	
+	  }
+   
+    </style>
 
         </head>
    <body background="t.jpg">
