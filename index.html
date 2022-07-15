@@ -4,7 +4,7 @@
     <meta charset="utf-8">
 <style>
   <title>
-    Nguyễn Thanh Trịnh
+    Nguyễn Đức Thiên Hoàng
   </title>
  <style>
     header {
